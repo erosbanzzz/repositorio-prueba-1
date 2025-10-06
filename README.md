@@ -1,2 +1,3 @@
 # repositorio-prueba-1.
-print("hola,eeca")
+hola,eeca
+mi nombre es Eros
