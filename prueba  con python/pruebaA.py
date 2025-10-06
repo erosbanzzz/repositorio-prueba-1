@@ -1,3 +1,3 @@
 print('hola mundo')
 #tipo de dato
-print(type(4))
+print(type(45))
